@@ -1,4 +1,4 @@
-*Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support*
+*This is a fork without REQUEST_ALL_PACKAGES permission*
 =========================================================
 
 [![npm version](http://img.shields.io/npm/v/com-darryncampbell-cordova-plugin-intent.svg?style=flat-square)](https://npmjs.org/package/com-darryncampbell-cordova-plugin-intent "View this project on npm")
